@@ -1,0 +1,5 @@
+C:\Users\נעם\documents\visual studio 2015\Projects\dotNet5777_Project01_5392_1680\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\נעם\documents\visual studio 2015\Projects\dotNet5777_Project01_5392_1680\BE\bin\Debug\BE.dll
+C:\Users\נעם\documents\visual studio 2015\Projects\dotNet5777_Project01_5392_1680\BE\bin\Debug\BE.pdb
+C:\Users\נעם\documents\visual studio 2015\Projects\dotNet5777_Project01_5392_1680\BE\obj\Debug\BE.dll
+C:\Users\נעם\documents\visual studio 2015\Projects\dotNet5777_Project01_5392_1680\BE\obj\Debug\BE.pdb
